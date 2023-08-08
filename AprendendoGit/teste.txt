@@ -1,1 +1,4 @@
-python é muito melhor que java
+python é muito melhor que java <<<<<<<< Sábio
+
+
+!(Java >>>>>>>> Python), foi negado.
